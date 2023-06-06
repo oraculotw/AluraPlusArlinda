@@ -22,7 +22,10 @@ background-repeat: no-repeat;
 
 .container {
 height: 100vh;
+background-size: contain;
 }
+
+
 
 
 
